@@ -1,0 +1,8 @@
+# Omnipack overrides for FTB Essentials (copied into each new world's serverconfig)
+{
+	teleportation: {
+		home: {
+			max: 5
+		}
+	}
+}
