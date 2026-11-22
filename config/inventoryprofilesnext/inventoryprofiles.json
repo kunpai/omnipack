@@ -1,0 +1,13 @@
+{
+    "ModSettings": {
+        "first_run": false,
+        "enable_profiles": false,
+        "enable_updates_check": false
+    },
+    "GuiSettings": {
+        "enable_profiles_ui": false,
+        "enable_profiles_announcement": false,
+        "enable_inventory_settings_button": false,
+        "enable_inventory_editor_button": false
+    }
+}
