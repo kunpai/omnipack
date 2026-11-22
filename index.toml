@@ -10,6 +10,10 @@ hash = "5fce3bb6c09c7762ae6da9a6e2dc3c628391524933d393f1253fd37c9b9cc847"
 preserve = true
 
 [[files]]
+file = "kubejs/server_scripts/omnipack/hostile_pokemon.js"
+hash = "3ed024d5e57325d288546a342d47584e15ca26049c501d1b3bab88e7f2adf9b6"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "d94f5fd662671e6f6f4bda5d89234aded7461a8a90d9f9fe3d5b8a7f17c25b54"
 metafile = true
