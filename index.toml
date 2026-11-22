@@ -1,8 +1,28 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/ad_astra-client.jsonc"
+hash = "1cbe49c027602aeff7c1022d01a084119e11d7c6e16080ed3d181d0316c7fd30"
+preserve = true
+
+[[files]]
+file = "config/inventoryprofilesnext/inventoryprofiles.json"
+hash = "a2da3c42ed1bfb6b784a4303108e774579504ae3cbd6e5f6d5dc034f1bd59956"
+preserve = true
+
+[[files]]
 file = "config/palladium-client.toml"
-hash = "5fce3bb6c09c7762ae6da9a6e2dc3c628391524933d393f1253fd37c9b9cc847"
+hash = "85c134c4fd32c01adac2a1dc25f359a6d14f3dfefe939e889b38fe800ab9561a"
+preserve = true
+
+[[files]]
+file = "config/sidebar_buttons.json"
+hash = "c386b69e5d5bb27281a45ac0e26e292c017d74ddf24cc944594789f00f5ac68c"
+preserve = true
+
+[[files]]
+file = "config/xaerohud.txt"
+hash = "8d13c5f398016036aa4fdefb366ef3926d89f96ca104155bc9f6e5a7ec682ecd"
 preserve = true
 
 [[files]]
