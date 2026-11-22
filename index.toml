@@ -10,6 +10,10 @@ hash = "5fce3bb6c09c7762ae6da9a6e2dc3c628391524933d393f1253fd37c9b9cc847"
 preserve = true
 
 [[files]]
+file = "defaultconfigs/ftbessentials-server.snbt"
+hash = "49513236a48664a133869e3d1c461df8fcc8bf6282a356280ea881ce5d765d7d"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "d94f5fd662671e6f6f4bda5d89234aded7461a8a90d9f9fe3d5b8a7f17c25b54"
 metafile = true
@@ -97,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/from-the-fog.pw.toml"
 hash = "c2fb39a9d55078a3929cfee2b922b725704d0fdff4b24936b2c0d1500061885d"
+metafile = true
+
+[[files]]
+file = "mods/ftb-essentials.pw.toml"
+hash = "8a185af41fb24e83e4497c9362943723b6afee585cf8a3bf280ac155d29bf593"
 metafile = true
 
 [[files]]
