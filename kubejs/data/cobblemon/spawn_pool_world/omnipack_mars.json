@@ -1,0 +1,354 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [
+    "ad_astra"
+  ],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "omnipack-mars-geodude",
+      "pokemon": "geodude",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "20-35",
+      "weight": 10.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mars-diglett",
+      "pokemon": "diglett",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "20-35",
+      "weight": 10.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mars-sandshrew",
+      "pokemon": "sandshrew",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "20-35",
+      "weight": 9.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mars-numel",
+      "pokemon": "numel",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "20-35",
+      "weight": 8.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mars-sandile",
+      "pokemon": "sandile",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "20-35",
+      "weight": 7.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mars-cubone",
+      "pokemon": "cubone",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-40",
+      "weight": 6.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mars-baltoy",
+      "pokemon": "baltoy",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-40",
+      "weight": 6.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mars-trapinch",
+      "pokemon": "trapinch",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-40",
+      "weight": 6.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mars-rhyhorn",
+      "pokemon": "rhyhorn",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-40",
+      "weight": 5.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mars-hippopotas",
+      "pokemon": "hippopotas",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-40",
+      "weight": 5.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mars-onix",
+      "pokemon": "onix",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "25-40",
+      "weight": 4.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mars-larvitar",
+      "pokemon": "larvitar",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "30-45",
+      "weight": 3.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mars-gible",
+      "pokemon": "gible",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "30-45",
+      "weight": 3.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mars-camerupt",
+      "pokemon": "camerupt",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "40-55",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mars-aerodactyl",
+      "pokemon": "aerodactyl",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "40-55",
+      "weight": 1.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:martian_wastelands",
+          "ad_astra:martian_canyon_creek",
+          "ad_astra:martian_polar_caps"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mars_sand",
+          "ad_astra:mars_stone",
+          "ad_astra:mars_cobblestone",
+          "minecraft:snow_block"
+        ]
+      }
+    }
+  ]
+}

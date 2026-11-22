@@ -1,0 +1,434 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [
+    "ad_astra"
+  ],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "omnipack-glacio-swinub",
+      "pokemon": "swinub",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "30-45",
+      "weight": 10.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-cubchoo",
+      "pokemon": "cubchoo",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "30-45",
+      "weight": 10.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-smoochum",
+      "pokemon": "smoochum",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "30-45",
+      "weight": 8.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-bergmite",
+      "pokemon": "bergmite",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "30-45",
+      "weight": 8.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-seel",
+      "pokemon": "seel",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "30-45",
+      "weight": 7.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-sneasel",
+      "pokemon": "sneasel",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "35-50",
+      "weight": 6.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-jynx",
+      "pokemon": "jynx",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "35-50",
+      "weight": 5.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-eiscue",
+      "pokemon": "eiscue",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "35-50",
+      "weight": 5.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-amaura",
+      "pokemon": "amaura",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "35-50",
+      "weight": 4.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-cryogonal",
+      "pokemon": "cryogonal",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "35-50",
+      "weight": 4.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-shellder",
+      "pokemon": "shellder",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "35-50",
+      "weight": 4.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-piloswine",
+      "pokemon": "piloswine",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "45-60",
+      "weight": 3.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-beartic",
+      "pokemon": "beartic",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "45-60",
+      "weight": 3.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-avalugg",
+      "pokemon": "avalugg",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "45-60",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-weavile",
+      "pokemon": "weavile",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "50-60",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-cloyster",
+      "pokemon": "cloyster",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "45-60",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-glacio-mamoswine",
+      "pokemon": "mamoswine",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "55-65",
+      "weight": 1.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:glacio_snowy_barrens",
+          "ad_astra:glacio_ice_peaks"
+        ],
+        "neededBaseBlocks": [
+          "minecraft:snow_block",
+          "ad_astra:permafrost",
+          "ad_astra:glacio_stone",
+          "ad_astra:glacio_cobblestone",
+          "minecraft:deepslate",
+          "minecraft:ice",
+          "minecraft:packed_ice"
+        ]
+      }
+    }
+  ]
+}

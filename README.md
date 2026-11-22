@@ -33,9 +33,10 @@ Powers and alien skill trees: open inventory (E) and click the Omnitrix icon nex
 
 ## Pokémon in space
 
-Pokémon can survive Ad Astra planets (no oxygen, cold, heat, acid rain), and lunar
-Pokémon (Clefairy, Lunatone, Solrock, Minior, Elgyem, Beldum, ...) spawn on the Moon.
-Data lives in `kubejs/data/`.
+Pokémon survive every Ad Astra planet (no oxygen, cold, heat, acid rain), and each
+planet has its own spawns: Moon (lunar/psychic), Mars (rock/ground), Venus
+(fire/poison), Mercury (steel), Glacio (ice). Edit `tools/gen_space_spawns.py` and
+run it to change them; output goes to `kubejs/data/` (needs a full restart).
 
 ## Hostile Pokémon
 

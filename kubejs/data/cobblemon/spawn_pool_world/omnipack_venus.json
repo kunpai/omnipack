@@ -1,0 +1,384 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [
+    "ad_astra"
+  ],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "omnipack-venus-slugma",
+      "pokemon": "slugma",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-40",
+      "weight": 10.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-venus-grimer",
+      "pokemon": "grimer",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-40",
+      "weight": 10.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-venus-koffing",
+      "pokemon": "koffing",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-40",
+      "weight": 9.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-venus-magby",
+      "pokemon": "magby",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-40",
+      "weight": 8.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-venus-salandit",
+      "pokemon": "salandit",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "25-40",
+      "weight": 8.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-venus-torkoal",
+      "pokemon": "torkoal",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "30-45",
+      "weight": 6.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-venus-ekans",
+      "pokemon": "ekans",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "30-45",
+      "weight": 6.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-venus-sizzlipede",
+      "pokemon": "sizzlipede",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "30-45",
+      "weight": 6.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-venus-litwick",
+      "pokemon": "litwick",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "30-45",
+      "weight": 5.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-venus-darumaka",
+      "pokemon": "darumaka",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "30-45",
+      "weight": 5.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-venus-magmar",
+      "pokemon": "magmar",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "40-55",
+      "weight": 3.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-venus-turtonator",
+      "pokemon": "turtonator",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "40-55",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-venus-larvesta",
+      "pokemon": "larvesta",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "35-50",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-venus-heatmor",
+      "pokemon": "heatmor",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "40-55",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-venus-lampent",
+      "pokemon": "lampent",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "40-55",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:venus_wastelands",
+          "ad_astra:infernal_venus_barrens"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:venus_sand",
+          "ad_astra:venus_stone",
+          "ad_astra:venus_sandstone",
+          "ad_astra:venus_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:gravel"
+        ]
+      }
+    }
+  ]
+}
