@@ -4,7 +4,7 @@ A Forge 1.20.1 modpack for co-op play: Pokémon, Ben 10, space, dinosaurs, and h
 
 | Theme | Mods |
 |---|---|
-| Pokémon | Cobblemon |
+| Pokémon | Cobblemon, Fight or Flight Reborn (your Pokémon defend you from mobs) |
 | Ben 10 | Alien Evolution (Palladium) |
 | Space | Ad Astra |
 | Dinosaurs | Fossils & Archeology Revival, Alex's Caves |
