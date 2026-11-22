@@ -37,6 +37,7 @@ Pokémon survive every Ad Astra planet (no oxygen, cold, heat, acid rain), and e
 planet has its own spawns: Moon (lunar/psychic), Mars (rock/ground), Venus
 (fire/poison), Mercury (steel), Glacio (ice). Edit `tools/gen_space_spawns.py` and
 run it to change them; output goes to `kubejs/data/` (needs a full restart).
+Spawn attempts are 4x faster on planets (`kubejs/server_scripts/omnipack/space_spawn_rate.js`).
 
 ## Hostile Pokémon
 

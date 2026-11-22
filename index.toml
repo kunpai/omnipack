@@ -54,6 +54,10 @@ file = "kubejs/server_scripts/omnipack/hostile_pokemon.js"
 hash = "a503dbef8eb2bc852995b2d114d1cbf6b829e91440409cc31f7960af907ee741"
 
 [[files]]
+file = "kubejs/server_scripts/omnipack/space_spawn_rate.js"
+hash = "570c01e04323435241d5af944e94a0bba3d9afffc564bd7883196a6057e21a36"
+
+[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "d94f5fd662671e6f6f4bda5d89234aded7461a8a90d9f9fe3d5b8a7f17c25b54"
 metafile = true
