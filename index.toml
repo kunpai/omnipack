@@ -10,10 +10,6 @@ hash = "5fce3bb6c09c7762ae6da9a6e2dc3c628391524933d393f1253fd37c9b9cc847"
 preserve = true
 
 [[files]]
-file = "config/weeping_angels-common.toml"
-hash = "9df12fec55c1fbb93f8168ce40c74805887a538b0c23102135e6cede1ce24529"
-
-[[files]]
 file = "defaultconfigs/ftbessentials-server.snbt"
 hash = "49513236a48664a133869e3d1c461df8fcc8bf6282a356280ea881ce5d765d7d"
 
