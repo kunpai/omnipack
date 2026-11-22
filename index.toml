@@ -10,6 +10,30 @@ file = "defaultconfigs/ftbessentials-server.snbt"
 hash = "49513236a48664a133869e3d1c461df8fcc8bf6282a356280ea881ce5d765d7d"
 
 [[files]]
+file = "kubejs/data/ad_astra/tags/entity_types/can_survive_extreme_cold.json"
+hash = "0820f50427518d82f2793d81859b86bffe9dc51f2954650b1944b2c30cec51b3"
+
+[[files]]
+file = "kubejs/data/ad_astra/tags/entity_types/can_survive_extreme_heat.json"
+hash = "0820f50427518d82f2793d81859b86bffe9dc51f2954650b1944b2c30cec51b3"
+
+[[files]]
+file = "kubejs/data/ad_astra/tags/entity_types/can_survive_in_acid_rain.json"
+hash = "0820f50427518d82f2793d81859b86bffe9dc51f2954650b1944b2c30cec51b3"
+
+[[files]]
+file = "kubejs/data/ad_astra/tags/entity_types/can_survive_in_space.json"
+hash = "0820f50427518d82f2793d81859b86bffe9dc51f2954650b1944b2c30cec51b3"
+
+[[files]]
+file = "kubejs/data/ad_astra/tags/entity_types/lives_without_oxygen.json"
+hash = "0820f50427518d82f2793d81859b86bffe9dc51f2954650b1944b2c30cec51b3"
+
+[[files]]
+file = "kubejs/data/cobblemon/spawn_pool_world/omnipack_moon.json"
+hash = "d59bdafc88be63c8e21661ec05aba6b394bdc3a8b0805ce8a73c351a35090bf1"
+
+[[files]]
 file = "kubejs/server_scripts/omnipack/hostile_pokemon.js"
 hash = "a503dbef8eb2bc852995b2d114d1cbf6b829e91440409cc31f7960af907ee741"
 

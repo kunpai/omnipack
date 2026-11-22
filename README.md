@@ -31,6 +31,12 @@ Built with [packwiz](https://packwiz.infra.link). Mods are downloaded from Modri
 
 Powers and alien skill trees: open inventory (E) and click the Omnitrix icon next to the recipe book.
 
+## Pokémon in space
+
+Pokémon can survive Ad Astra planets (no oxygen, cold, heat, acid rain), and lunar
+Pokémon (Clefairy, Lunatone, Solrock, Minior, Elgyem, Beldum, ...) spawn on the Moon.
+Data lives in `kubejs/data/`.
+
 ## Hostile Pokémon
 
 Wild Ghost, Dark, Dragon and Poison types, plus a random 10% of others, are hostile.

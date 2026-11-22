@@ -1,0 +1,219 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [
+    "ad_astra"
+  ],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "omnipack-moon-clefairy",
+      "pokemon": "clefairy",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "15-30",
+      "weight": 10.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:lunar_wastelands"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:moon_sand",
+          "ad_astra:moon_stone",
+          "ad_astra:moon_cobblestone",
+          "ad_astra:moon_deepslate"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-moon-lunatone",
+      "pokemon": "lunatone",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "20-40",
+      "weight": 10.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:lunar_wastelands"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:moon_sand",
+          "ad_astra:moon_stone",
+          "ad_astra:moon_cobblestone",
+          "ad_astra:moon_deepslate"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-moon-elgyem",
+      "pokemon": "elgyem",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "15-30",
+      "weight": 9.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:lunar_wastelands"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:moon_sand",
+          "ad_astra:moon_stone",
+          "ad_astra:moon_cobblestone",
+          "ad_astra:moon_deepslate"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-moon-bronzor",
+      "pokemon": "bronzor",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "15-30",
+      "weight": 6.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:lunar_wastelands"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:moon_sand",
+          "ad_astra:moon_stone",
+          "ad_astra:moon_cobblestone",
+          "ad_astra:moon_deepslate"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-moon-solrock",
+      "pokemon": "solrock",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "20-40",
+      "weight": 6.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:lunar_wastelands"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:moon_sand",
+          "ad_astra:moon_stone",
+          "ad_astra:moon_cobblestone",
+          "ad_astra:moon_deepslate"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-moon-minior",
+      "pokemon": "minior",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "20-40",
+      "weight": 6.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:lunar_wastelands"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:moon_sand",
+          "ad_astra:moon_stone",
+          "ad_astra:moon_cobblestone",
+          "ad_astra:moon_deepslate"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-moon-munna",
+      "pokemon": "munna",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "15-30",
+      "weight": 5.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:lunar_wastelands"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:moon_sand",
+          "ad_astra:moon_stone",
+          "ad_astra:moon_cobblestone",
+          "ad_astra:moon_deepslate"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-moon-beldum",
+      "pokemon": "beldum",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "20-35",
+      "weight": 3.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:lunar_wastelands"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:moon_sand",
+          "ad_astra:moon_stone",
+          "ad_astra:moon_cobblestone",
+          "ad_astra:moon_deepslate"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-moon-clefable",
+      "pokemon": "clefable",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "35-50",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:lunar_wastelands"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:moon_sand",
+          "ad_astra:moon_stone",
+          "ad_astra:moon_cobblestone",
+          "ad_astra:moon_deepslate"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-moon-beheeyem",
+      "pokemon": "beheeyem",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "35-50",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:lunar_wastelands"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:moon_sand",
+          "ad_astra:moon_stone",
+          "ad_astra:moon_cobblestone",
+          "ad_astra:moon_deepslate"
+        ]
+      }
+    }
+  ]
+}
