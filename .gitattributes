@@ -1,0 +1,3 @@
+# Windows batch files are stored with CRLF bytes as-is (raw/ZIP downloads stay runnable)
+*.bat -text
+*.sh text eol=lf

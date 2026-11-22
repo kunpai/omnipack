@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.md"
-hash = "e831273a77ae703ef614355502e036855ec3cf6df3e79714d81fb9724a938cde"
-
-[[files]]
 file = "config/palladium-client.toml"
 hash = "5fce3bb6c09c7762ae6da9a6e2dc3c628391524933d393f1253fd37c9b9cc847"
 preserve = true

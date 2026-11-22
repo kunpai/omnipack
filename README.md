@@ -37,3 +37,7 @@ Wild Ghost, Dark, Dragon and Poison types, plus a random 10% of others, are host
 Normal ones chase you and force a battle; strong ones (legendary, or 10+ levels above
 your best Pokémon) attack directly. Tuning lives at the top of
 `kubejs/server_scripts/omnipack/hostile_pokemon.js`.
+
+## Hosting a server
+
+See [server/README.md](server/README.md): `start.bat` (Windows) or `start.sh` (macOS) installs Forge, pulls the pack and starts the server.
