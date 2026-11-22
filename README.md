@@ -8,9 +8,9 @@ A Forge 1.20.1 modpack for co-op play: Pokémon, Ben 10, space, dinosaurs, and h
 | Ben 10 | Alien Evolution (Palladium) |
 | Space | Ad Astra |
 | Dinosaurs | Fossils & Archeology Revival, Alex's Caves |
-| Horror | The Man From The Fog, From The Fog, Better Cave Dweller |
-| QoL | Waystones, Sophisticated Backpacks/Storage, JEI, Jade, Xaero's maps, Inventory Profiles Next, Corpse, Carry On, Polymorph |
-| Co-op | FTB Quests, FTB Teams |
+| Horror | The Man From The Fog, From The Fog, Better Cave Dweller, The Knocker, Weeping Angels, Mutant Monsters, Enhanced Celestials (blood moons), hostile wild Pokémon (KubeJS) |
+| QoL | FTB Essentials (/tpa, /home, /back, /spawn, /rtp), Comforts, Farmer's Delight, Waystones, Sophisticated Backpacks/Storage, JEI, Jade, Xaero's maps, Inventory Profiles Next, Corpse, Carry On, Polymorph |
+| Co-op | Simple Voice Chat (proximity), FTB Quests, FTB Teams |
 | Performance | Embeddium, ModernFix, FerriteCore, Entity Culling, Clumps, spark |
 
 Built with [packwiz](https://packwiz.infra.link). Mods are downloaded from Modrinth/CurseForge at install time; this repo only holds metadata and configs.
@@ -27,5 +27,13 @@ Built with [packwiz](https://packwiz.infra.link). Mods are downloaded from Modri
 | B | Open backpack |
 | ; | Space-suit flight |
 | ` | Quest book |
+| Caps Lock / = / - | Voice chat: push to talk / menu / mute |
 
 Powers and alien skill trees: open inventory (E) and click the Omnitrix icon next to the recipe book.
+
+## Hostile Pokémon
+
+Wild Ghost, Dark, Dragon and Poison types, plus a random 10% of others, are hostile.
+Normal ones chase you and force a battle; strong ones (legendary, or 10+ levels above
+your best Pokémon) attack directly. Tuning lives at the top of
+`kubejs/server_scripts/omnipack/hostile_pokemon.js`.

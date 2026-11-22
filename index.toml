@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "README.md"
-hash = "b94023de0d735622d2a105856f91f38c55092118a54be234dc7498b87c8a1083"
+hash = "e831273a77ae703ef614355502e036855ec3cf6df3e79714d81fb9724a938cde"
 
 [[files]]
 file = "config/palladium-client.toml"
@@ -78,8 +78,23 @@ hash = "541ed5025e526f075984bbf7653b18724d0bf254dcc5d1464e60dd5bb82f7651"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "3a04e507c1411b97bf5aa3ce3f238249de5f43b876997d7bfb4d98e325231494"
+metafile = true
+
+[[files]]
 file = "mods/corpse.pw.toml"
 hash = "2fba2317a375669ccb1376525d4d4e0d1903cc5dc44fc70dce1d0e3dbb6aacb1"
+metafile = true
+
+[[files]]
+file = "mods/data-anchor.pw.toml"
+hash = "62472a60936379eed43ebc923d32ecc8b17521db391a49ea687d38a5e47a047f"
 metafile = true
 
 [[files]]
@@ -88,8 +103,18 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/enhanced-celestials.pw.toml"
+hash = "83d47d0556bae400118973eed53c20e87bc81536f70af1c8add6cd5ef9f7cbb7"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "b029a0376e3d2c81c7bf4de2429b6ae3004698f8d71110413122f3f302750186"
+metafile = true
+
+[[files]]
+file = "mods/farmers-delight.pw.toml"
+hash = "c83385838fbf5cdd40684e5f6d4b7bcc2126de4abca229a60b7063e57a5a4615"
 metafile = true
 
 [[files]]
@@ -183,6 +208,11 @@ hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
 
 [[files]]
+file = "mods/mutant-monsters.pw.toml"
+hash = "2b8f42e2738eee168da78318c19249f78a546dd3f0a08084afcb7ddacc0144b4"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
 metafile = true
@@ -190,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "ea8571ba9dc8e74bad5e4257d50e9bb80d02be8f3d5de7fe3dede969e26fa15c"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "26569e19bf9fb02bf38c8870b65158912d2bc024a6d78af3647257c7f8fe50d1"
 metafile = true
 
 [[files]]
@@ -205,6 +240,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "05c5ebbf01518b99f390154362f404049e19d9306ebee2a564b202129a3519fe"
 metafile = true
 
 [[files]]
@@ -233,6 +273,11 @@ hash = "64c3a0ec2e1a1759bda925487c525944d5d3877b73710805024bca6893bab1d3"
 metafile = true
 
 [[files]]
+file = "mods/the-knocker.pw.toml"
+hash = "3da2bd72b76eca0a2312a819ca26b415aac25371ef7b71b102bd7a23179154cd"
+metafile = true
+
+[[files]]
 file = "mods/the-man-from-the-fog.pw.toml"
 hash = "ee2c3631dbbb9e01ee2455c10111c661a118fb6ed91fbc0aa11fbdc2ae411ed0"
 metafile = true
@@ -248,6 +293,11 @@ hash = "1dc6ca31c7b6912c494caa2a4f5f9f7250af50fbeb9ce9141ae9b741f9861987"
 metafile = true
 
 [[files]]
+file = "mods/weeping-angels.pw.toml"
+hash = "2699f5b73cbe574c398e927a20fed2ad22abf4480c6427c3cd4940bc1b18d238"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "7f87fe777d2f09bf5f19f06dc69b60023bc8caf34cba74ab6b62005cf184b348"
 metafile = true
@@ -259,5 +309,5 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "c0c3e6567c2a1592a5ad1d0453a7c743ec571b0d5be803c23c7ef256c0759e33"
+hash = "520502a9e0299ce24a097acb44d32cf55b16856d41a6dc6de43c415696fcd120"
 preserve = true
