@@ -1,3 +1,4 @@
 *.mrpack
 *.zip
 .DS_Store
+.claude/

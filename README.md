@@ -31,6 +31,14 @@ Built with [packwiz](https://packwiz.infra.link). Mods are downloaded from Modri
 
 Powers and alien skill trees: open inventory (E) and click the Omnitrix icon next to the recipe book.
 
+## Pokémon in space
+
+Pokémon survive every Ad Astra planet (no oxygen, cold, heat, acid rain), and each
+planet has its own spawns: Moon (lunar/psychic), Mars (rock/ground), Venus
+(fire/poison), Mercury (steel), Glacio (ice). Edit `tools/gen_space_spawns.py` and
+run it to change them; output goes to `kubejs/data/` (needs a full restart).
+Spawn attempts are 4x faster on planets (`kubejs/server_scripts/omnipack/space_spawn_rate.js`).
+
 ## Hostile Pokémon
 
 Wild Ghost, Dark, Dragon and Poison types, plus a random 10% of others, are hostile.

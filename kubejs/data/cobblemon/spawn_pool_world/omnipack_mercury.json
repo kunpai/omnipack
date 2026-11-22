@@ -1,0 +1,285 @@
+{
+  "enabled": true,
+  "neededInstalledMods": [
+    "ad_astra"
+  ],
+  "neededUninstalledMods": [],
+  "spawns": [
+    {
+      "id": "omnipack-mercury-magnemite",
+      "pokemon": "magnemite",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "30-45",
+      "weight": 10.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:mercury_deltas"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mercury_stone",
+          "ad_astra:mercury_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:magma_block",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mercury-aron",
+      "pokemon": "aron",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "30-45",
+      "weight": 10.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:mercury_deltas"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mercury_stone",
+          "ad_astra:mercury_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:magma_block",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mercury-klink",
+      "pokemon": "klink",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "30-45",
+      "weight": 9.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:mercury_deltas"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mercury_stone",
+          "ad_astra:mercury_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:magma_block",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mercury-durant",
+      "pokemon": "durant",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "common",
+      "level": "30-45",
+      "weight": 8.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:mercury_deltas"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mercury_stone",
+          "ad_astra:mercury_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:magma_block",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mercury-ferroseed",
+      "pokemon": "ferroseed",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "35-50",
+      "weight": 6.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:mercury_deltas"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mercury_stone",
+          "ad_astra:mercury_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:magma_block",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mercury-skarmory",
+      "pokemon": "skarmory",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "35-50",
+      "weight": 6.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:mercury_deltas"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mercury_stone",
+          "ad_astra:mercury_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:magma_block",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mercury-honedge",
+      "pokemon": "honedge",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "35-50",
+      "weight": 6.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:mercury_deltas"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mercury_stone",
+          "ad_astra:mercury_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:magma_block",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mercury-mawile",
+      "pokemon": "mawile",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "uncommon",
+      "level": "35-50",
+      "weight": 5.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:mercury_deltas"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mercury_stone",
+          "ad_astra:mercury_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:magma_block",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mercury-steelix",
+      "pokemon": "steelix",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "45-60",
+      "weight": 3.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:mercury_deltas"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mercury_stone",
+          "ad_astra:mercury_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:magma_block",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mercury-lairon",
+      "pokemon": "lairon",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "40-55",
+      "weight": 3.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:mercury_deltas"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mercury_stone",
+          "ad_astra:mercury_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:magma_block",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mercury-magneton",
+      "pokemon": "magneton",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "45-60",
+      "weight": 3.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:mercury_deltas"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mercury_stone",
+          "ad_astra:mercury_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:magma_block",
+          "minecraft:gravel"
+        ]
+      }
+    },
+    {
+      "id": "omnipack-mercury-metang",
+      "pokemon": "metang",
+      "presets": [],
+      "type": "pokemon",
+      "context": "grounded",
+      "bucket": "rare",
+      "level": "45-60",
+      "weight": 2.0,
+      "condition": {
+        "biomes": [
+          "ad_astra:mercury_deltas"
+        ],
+        "neededBaseBlocks": [
+          "ad_astra:mercury_stone",
+          "ad_astra:mercury_cobblestone",
+          "minecraft:basalt",
+          "minecraft:blackstone",
+          "minecraft:magma_block",
+          "minecraft:gravel"
+        ]
+      }
+    }
+  ]
+}

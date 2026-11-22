@@ -1,3 +1,5 @@
 # Repo-only files: not part of the pack players/servers download
 server/
 README.md
+.claude/
+tools/
