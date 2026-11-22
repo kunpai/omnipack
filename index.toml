@@ -39,7 +39,7 @@ hash = "a38f42eb5c44bd358d907d5088a3b823a6e8db8b8412e24ccb86e251a77e19d6"
 
 [[files]]
 file = "kubejs/data/cobblemon/spawn_pool_world/omnipack_mercury.json"
-hash = "6abe494c4171cba1346c92a65a06479c5e4e67dd27c801f3ab7b80ccbbdb8d4f"
+hash = "e643a61916417253ba57799895589203bdb652e9fbae3cdfcfaf621617a6f5d4"
 
 [[files]]
 file = "kubejs/data/cobblemon/spawn_pool_world/omnipack_moon.json"
@@ -47,7 +47,7 @@ hash = "d59bdafc88be63c8e21661ec05aba6b394bdc3a8b0805ce8a73c351a35090bf1"
 
 [[files]]
 file = "kubejs/data/cobblemon/spawn_pool_world/omnipack_venus.json"
-hash = "d0e443e67b503389638c4b2a3286e38d5432f39c3b30cba2d68f6aaf52b350b8"
+hash = "b3a376eb103d710379bc77281d930becc6941c7674dca156f4e8a673a1f90276"
 
 [[files]]
 file = "kubejs/server_scripts/omnipack/hostile_pokemon.js"

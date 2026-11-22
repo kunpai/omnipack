@@ -48,7 +48,8 @@ PLANETS: Dict[str, Dict] = {
     "venus": {  # toxic furnace: fire / poison
         "biomes": ["ad_astra:venus_wastelands", "ad_astra:infernal_venus_barrens"],
         "blocks": ["ad_astra:venus_sand", "ad_astra:venus_stone", "ad_astra:venus_sandstone",
-                   "ad_astra:venus_cobblestone", "minecraft:basalt", "minecraft:blackstone",
+                   "ad_astra:venus_cobblestone", "ad_astra:infernal_spire_block",
+                   "minecraft:basalt", "minecraft:blackstone", "minecraft:magma_block",
                    "minecraft:gravel"],
         "spawns": [
             ("slugma", "common", "25-40", 10), ("grimer", "common", "25-40", 10),
@@ -64,7 +65,8 @@ PLANETS: Dict[str, Dict] = {
     "mercury": {  # scorched metal world: steel
         "biomes": ["ad_astra:mercury_deltas"],
         "blocks": ["ad_astra:mercury_stone", "ad_astra:mercury_cobblestone",
-                   "minecraft:basalt", "minecraft:blackstone", "minecraft:gravel"],
+                   "minecraft:basalt", "minecraft:blackstone", "minecraft:magma_block",
+                   "minecraft:gravel"],
         "spawns": [
             ("magnemite", "common", "30-45", 10), ("aron", "common", "30-45", 10),
             ("klink", "common", "30-45", 9), ("durant", "common", "30-45", 8),
