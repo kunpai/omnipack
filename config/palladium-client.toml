@@ -1,0 +1,9 @@
+#Allowed Values: TOP_LEFT, TOP_RIGHT, BOTTOM_LEFT, BOTTOM_RIGHT, HIDDEN
+abilityBarPosition = "BOTTOM_RIGHT"
+#Shows the names of the abilities next to the ability bar at all times, instead of only while the chat is open.
+alwaysShowAbilityNames = true
+disablePalladiumHubButton = false
+addonPackDevMode = false
+accessoryButton = true
+eyeSelectionButton = true
+

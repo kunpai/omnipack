@@ -1,0 +1,13 @@
+name = "Omnipack"
+author = "Omnipack Team"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "413a047255d1c3b37341ac0e74aeb3cb99c71b3021e43b05d8cbb22fab58e04a"
+
+[versions]
+forge = "47.4.29"
+minecraft = "1.20.1"
